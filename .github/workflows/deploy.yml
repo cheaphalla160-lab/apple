@@ -32,6 +32,8 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          enablement: true # 👉 我们就是加了这两行，强行命令 GitHub 帮你开启网页功能！
 
       - name: Install dependencies
         run: bun install
