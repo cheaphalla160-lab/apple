@@ -1,0 +1,6 @@
+{
+  "name": "Apple Orchard - 小学英语趣味摘苹果",
+  "description": "小学英语Apple互动教学游戏：点击掉落的红苹果，伴随清脆原汁原味的英文发音和生动拼写动画，助力小学英语课堂互动教学与趣味单词记忆。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
